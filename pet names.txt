@@ -1,0 +1,785 @@
+nickname	Last char	First char	len
+my babbeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee	e	m	49
+babbeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee	e	b	46
+my sprinkle on my ice cream cone	e	m	32
+"my sweet, sweet cheetah kitten"	n	m	30
+cottage cheese chicken breast	t	c	29
+my little sweet baby kangaroo	o	m	29
+sprinkle on my ice cream cone	e	s	29
+My sweeeeeet ray of sunshine	e	M	28
+my biggest cinnamon pretzel	l	m	27
+"sweet, sweet cheetah kitten"	n	s	27
+little sweet baby kangaroo	o	l	26
+my sweet sweet cute angel	l	m	25
+sweeeeeet ray of sunshine	e	s	25
+my baggy of gummy fruits	s	m	24
+my piece of citrus fruit	t	m	24
+my sweet sweet honey bun	n	m	24
+my dollop of sour cream	m	m	23
+my poor sweet nice girl	l	m	23
+my sweet nice cute girl	l	m	23
+my sweet apple crumble	e	m	22
+sweet sweet cute angel	l	s	22
+baggy of gummy fruits	s	b	21
+my good favorite girl	l	m	21
+my sweet nice boobela	a	m	21
+"my sweet, lovely girl"	l	m	21
+piece of citrus fruit	t	p	21
+sweet sweet honey bun	n	s	21
+dollop of sour cream	m	d	20
+my lil princess frog	g	m	20
+my little kitten cat	t	m	20
+MY LITTLE SMURF LADY	Y	M	20
+my string cheese man	n	m	20
+my sweet lovely girl	l	m	20
+poor sweet nice girl	l	p	20
+sweet nice cute girl	l	s	20
+my cute nasty woman	n	m	19
+my fat little roast	t	m	19
+my formidable woman	n	m	19
+my good sweet woman	n	m	19
+my sweet apple tart	t	m	19
+sweet apple crumble	e	s	19
+good favorite girl	l	g	18
+my cranberry sauce	e	m	18
+my cute sweet nice	e	m	18
+my favorite person	n	m	18
+my god damned babe	e	m	18
+my god damned wife	e	m	18
+my juicy tangerine	e	m	18
+my little hedgehog	g	m	18
+my POOKIE PRINCESS	S	m	18
+my poor baby sweet	t	m	18
+my poor sweet babe	e	m	18
+my poor sweet baby	y	m	18
+my sweet nice cute	e	m	18
+my sweet pineapple	e	m	18
+my sweetie pumpkin	n	m	18
+schmoogle mcnoodle	e	s	18
+sweet nice boobela	a	s	18
+"sweet, lovely girl"	l	s	18
+lil princess frog	g	l	17
+little kitten cat	t	l	17
+LITTLE SMURF LADY	Y	L	17
+my baaaaabie cake	e	m	17
+my big sweet bird	d	m	17
+my fat fat poodle	e	m	17
+my honey mountain	n	m	17
+my lil plum berry	y	m	17
+my little poo cat	t	m	17
+my little sweetie	e	m	17
+my little thimble	e	m	17
+my peach stroodle	e	m	17
+my poor cute girl	l	m	17
+my SWEETEST PEACH	H	m	17
+string cheese man	n	s	17
+sweet lovely girl	l	s	17
+cute nasty woman	n	c	16
+fat little roast	t	f	16
+good sweet woman	n	g	16
+mister daisy man	n	m	16
+my booooooooooob	b	m	16
+my chubby piglet	t	m	16
+my filet of fish	h	m	16
+my god damn wife	e	m	16
+my honey blossom	m	m	16
+my little goobie	e	m	16
+my little gubble	e	m	16
+my little piglet	t	m	16
+my sweetest love	e	m	16
+sweet apple tart	t	s	16
+bookokkokooopob	b	b	15
+cranberry sauce	e	c	15
+cute sweet nice	e	c	15
+favorite person	n	f	15
+god damned babe	e	g	15
+god damned wife	e	g	15
+juicy tangerine	e	j	15
+little gumbdrop	p	l	15
+little hedgehog	g	l	15
+mr. stink butts	s	m	15
+my fat squirrel	l	m	15
+my flubby pubby	y	m	15
+my good gumdrop	p	m	15
+my googoogajoob	b	m	15
+my hunniehunnie	e	m	15
+my Italian girl	l	m	15
+my key lime pie	e	m	15
+my little sweet	t	m	15
+my poor sweetie	e	m	15
+my snuggle bear	r	m	15
+POOKIE PRINCESS	S	P	15
+poor baby sweet	t	p	15
+poor sweet babe	e	p	15
+poor sweet baby	y	p	15
+sweet nice cute	e	s	15
+sweet pineapple	e	s	15
+sweetie pumpkin	n	s	15
+baaaaabie cake	e	b	14
+big sweet bird	d	b	14
+fat fat poodle	e	f	14
+fluffs mcduffs	s	f	14
+honey mountain	n	h	14
+lil plum berry	y	l	14
+little poo cat	t	l	14
+little sweetie	e	l	14
+little thimble	e	l	14
+my baby monkey	y	m	14
+my BOOBAFDVFSV	V	m	14
+my booooooooob	b	m	14
+my cuddle bear	r	m	14
+my cuddle puff	f	m	14
+my dispurement	t	m	14
+my fat man man	n	m	14
+my giggle puss	s	m	14
+my gooby booby	y	m	14
+my good goobie	e	m	14
+my goodle noom	m	m	14
+my juicy peach	h	m	14
+my lovely girl	l	m	14
+my peach angel	l	m	14
+my peach peach	h	m	14
+my poor hunnie	e	m	14
+my poor pickle	e	m	14
+my sweet peach	h	m	14
+myyyy baaaaabe	e	m	14
+peach stroodle	e	p	14
+poor cute girl	l	p	14
+SWEETEST PEACH	H	S	14
+sweets mcgeets	s	s	14
+apple blossom	m	a	13
+booooooooooob	b	b	13
+chubby piglet	t	c	13
+filet of fish	h	f	13
+god damn wife	e	g	13
+honey blossom	m	h	13
+little goobie	e	l	13
+little gubble	e	l	13
+little piglet	t	l	13
+mr. squiggles	s	m	13
+my baby bunny	y	m	13
+my berry tart	t	m	13
+my big turkey	y	m	13
+my bumble bee	e	m	13
+my chubby pig	g	m	13
+my chuppy boy	y	m	13
+my clementine	e	m	13
+my cream puff	f	m	13
+my cumberbums	s	m	13
+my cute sweet	t	m	13
+my Good booby	y	m	13
+my good woman	n	m	13
+my great love	e	m	13
+my gumdroplet	t	m	13
+my miss piggy	y	m	13
+my pookie pie	e	m	13
+my poor angel	l	m	13
+my poor babie	e	m	13
+my poor daisy	y	m	13
+my poor gubbs	s	m	13
+My poor hubby	y	M	13
+my poor lolly	y	m	13
+my poor sweet	t	m	13
+my sugar bear	r	m	13
+my sweet boob	b	m	13
+my sweet girl	l	m	13
+my sweetcheex	x	m	13
+my sweetheart	t	m	13
+my sweetleeee	e	m	13
+my wild bride	e	m	13
+My.... babBEE	E	M	13
+sweetest love	e	s	13
+fat squirrel	l	f	12
+flubby pubby	y	f	12
+good gumdrop	p	g	12
+googoogajoob	b	g	12
+Honey bucket	t	H	12
+hunniehunnie	e	h	12
+little sweet	t	l	12
+my angel pop	p	m	12
+my baaaaaabe	e	m	12
+my babie loo	o	m	12
+my babiieeee	e	m	12
+my baby bear	r	m	12
+my baby deer	r	m	12
+my baby plum	m	m	12
+my best girl	l	m	12
+my big Unnie	e	m	12
+my Cub Scout	t	m	12
+my cudd bear	r	m	12
+my cute butt	t	m	12
+my glam wife	e	m	12
+my good boob	b	m	12
+my good girl	l	m	12
+my hunniebar	r	m	12
+my hunnieboo	o	m	12
+my juice box	x	m	12
+my kitty cat	t	m	12
+My love bean	n	M	12
+my love love	e	m	12
+my noodleboo	o	m	12
+my peachface	e	m	12
+my poo kitty	y	m	12
+my pooky pie	e	m	12
+my poor babe	e	m	12
+my poor baby	y	m	12
+my poor boob	b	m	12
+My poor girl	l	M	12
+my poor love	e	m	12
+my pork loin	n	m	12
+my schmeegel	l	m	12
+my SCHMOOBLE	E	m	12
+my sexy wife	e	m	12
+my sweet pea	a	m	12
+my sweetness	s	m	12
+my teen bear	r	m	12
+myyyy biiiib	b	m	12
+poor sweetie	e	p	12
+pumpkin bell	l	p	12
+snuggle bear	r	s	12
+snugs magugs	s	s	12
+baby monkey	y	b	11
+BOOBAFDVFSV	V	B	11
+BOOGIEEEEEE	E	B	11
+booooooooob	b	b	11
+cuddle bear	r	c	11
+cuddle puff	f	c	11
+dispurement	t	d	11
+fat man man	n	f	11
+giggle puss	s	g	11
+gooba gooba	a	g	11
+gooby booby	y	g	11
+good goobie	e	g	11
+goodle noom	m	g	11
+gummmmmdrop	p	g	11
+juicy peach	h	j	11
+lovely girl	l	l	11
+mr. pastram	m	m	11
+mr. piglets	s	m	11
+my bableeee	e	m	11
+my baby fox	x	m	11
+my BIG BEAR	R	m	11
+my buuuuuub	b	m	11
+my canoodle	e	m	11
+my cute man	n	m	11
+my gluggies	s	m	11
+my gum drop	p	m	11
+my hedgehog	g	m	11
+my huggabun	n	m	11
+my lil doom	m	m	11
+my lil goon	n	m	11
+my mob wife	e	m	11
+my puppydog	g	m	11
+my sexy boy	y	m	11
+my snugabug	g	m	11
+my sweetums	s	m	11
+peach angel	l	p	11
+peach peach	h	p	11
+poor hunnie	e	p	11
+poor pickle	e	p	11
+poor Sweets	s	p	11
+sweet angel	l	s	11
+sweet hunny	y	s	11
+sweet peach	h	s	11
+Babbbeeeee	e	B	10
+baby bunny	y	b	10
+Baby Rocco	o	B	10
+berry tart	t	b	10
+big turkey	y	b	10
+bumble bee	e	b	10
+chubby pig	g	c	10
+chuppy boy	y	c	10
+clementine	e	c	10
+cream puff	f	c	10
+cumberbums	s	c	10
+cute sweet	t	c	10
+Good booby	y	G	10
+good woman	n	g	10
+great love	e	g	10
+gumdroplet	t	g	10
+gummy bear	r	g	10
+miss piggy	y	m	10
+mr gerbils	s	m	10
+MR JIGGLES	S	M	10
+mr piggles	s	m	10
+MR SQUIGGS	S	M	10
+mr wiggles	s	m	10
+my baaaabe	e	m	10
+my boo boo	o	m	10
+my boobela	a	m	10
+my bugaboo	o	m	10
+my buuuuub	b	m	10
+my cupcake	e	m	10
+my fiancee	e	m	10
+My glugula	a	M	10
+my husband	d	m	10
+my junebug	g	m	10
+my kit kat	t	m	10
+my moo moo	o	m	10
+my pastram	m	m	10
+my peaches	s	m	10
+my pet pig	g	m	10
+my pigalig	g	m	10
+my sausage	e	m	10
+my schmoob	b	m	10
+my snoodle	e	m	10
+My squeeks	s	M	10
+my sweetle	e	m	10
+pookie pie	e	p	10
+poor angel	l	p	10
+poor babie	e	p	10
+poor daisy	y	p	10
+poor gubbs	s	p	10
+poor hubby	y	p	10
+poor lolly	y	p	10
+poor sweet	t	p	10
+schmiggles	s	s	10
+scroombles	s	s	10
+sugar bear	r	s	10
+sweet boob	b	s	10
+sweet cute	e	s	10
+sweet girl	l	s	10
+sweetcheex	x	s	10
+sweetheart	t	s	10
+sweetleeee	e	s	10
+wild bride	e	w	10
+angel pop	p	a	9
+baaaaaabe	e	b	9
+Babbbbeee	e	B	9
+babie loo	o	b	9
+babiieeee	e	b	9
+baby bear	r	b	9
+baby deer	r	b	9
+baby plum	m	b	9
+best girl	l	b	9
+big Unnie	e	b	9
+crud crud	d	c	9
+cudd bear	r	c	9
+cute butt	t	c	9
+da gooboo	o	d	9
+good boob	b	g	9
+grandpiee	e	g	9
+gumb drop	p	g	9
+honeybook	k	h	9
+hunniebar	r	h	9
+hunnieboo	o	h	9
+juice box	x	j	9
+kitty cat	t	k	9
+love bean	n	l	9
+love love	e	l	9
+milkshake	e	m	9
+miss Jess	s	m	9
+mr boobie	e	m	9
+mr scoops	s	m	9
+muff muff	f	m	9
+my bluppy	y	m	9
+my booboo	o	m	9
+my bubble	e	m	9
+my bumble	e	m	9
+my burbie	e	m	9
+my derpie	e	m	9
+my dongle	e	m	9
+my donkey	y	m	9
+my doodie	e	m	9
+my doodle	e	m	9
+my gelato	o	m	9
+my goobie	e	m	9
+my googoo	o	m	9
+my gubble	e	m	9
+my huggie	e	m	9
+my hunnie	e	m	9
+my monkey	y	m	9
+my muggle	e	m	9
+my noodle	e	m	9
+my peachy	y	m	9
+my pepper	r	m	9
+my pickle	e	m	9
+my piggie	e	m	9
+my pookie	e	m	9
+my puggle	e	m	9
+my scoobs	s	m	9
+my shlubs	s	m	9
+my sweets	s	m	9
+my weenah	h	m	9
+my wiggle	e	m	9
+nice girl	l	n	9
+noodleboo	o	n	9
+party cat	t	p	9
+peachface	e	p	9
+poo kitty	y	p	9
+Pookiepie	e	P	9
+pooky pie	e	p	9
+poor babe	e	p	9
+poor baby	y	p	9
+poor boob	b	p	9
+poor girl	l	p	9
+poor love	e	p	9
+poppyseed	d	p	9
+schmeegel	l	s	9
+schmeegle	e	s	9
+schmiggle	e	s	9
+SCHMOOBLE	E	S	9
+schmoogle	e	s	9
+schmoooob	b	s	9
+schnookie	e	s	9
+scrimbles	s	s	9
+sexy wife	e	s	9
+sprinkles	s	s	9
+sweet pea	a	s	9
+sweetness	s	s	9
+teen bear	r	t	9
+Baaaaabe	e	B	8
+bableeee	e	b	8
+baby fox	x	b	8
+BIG BEAR	R	B	8
+Blobbyyy	y	B	8
+buggaboo	o	b	8
+buuuuuub	b	b	8
+canoodle	e	c	8
+cute man	n	c	8
+gluggies	s	g	8
+grandpie	e	g	8
+gum drop	p	g	8
+huggabun	n	h	8
+LIL BABI	I	L	8
+lil doom	m	l	8
+lil goon	n	l	8
+love bug	g	l	8
+MAH BABE	E	M	8
+mcdoogal	l	m	8
+moo cats	s	m	8
+mr milks	s	m	8
+mr posit	t	m	8
+mr robot	t	m	8
+ms posit	t	m	8
+my angel	l	m	8
+my babie	e	m	8
+my bable	e	m	8
+my blerb	b	m	8
+My BOOBS	S	M	8
+my booby	y	m	8
+my booob	b	m	8
+my boybs	s	m	8
+my bubba	a	m	8
+my bubby	y	m	8
+my buttz	z	m	8
+my cupid	d	m	8
+my cutes	s	m	8
+my cutie	e	m	8
+my dream	m	m	8
+my favie	e	m	8
+my gloob	b	m	8
+my goody	y	m	8
+my grump	p	m	8
+my gubba	a	m	8
+my gumba	a	m	8
+my gumby	y	m	8
+my gummy	y	m	8
+my hugga	a	m	8
+my huney	y	m	8
+my hunny	y	m	8
+my laffy	y	m	8
+my lovie	e	m	8
+my momma	a	m	8
+my MUGGA	A	m	8
+my peach	h	m	8
+my piggg	g	m	8
+my piggs	s	m	8
+my pooky	y	m	8
+my poopy	y	m	8
+my presh	h	m	8
+my puppy	y	m	8
+my queen	n	m	8
+my smoog	g	m	8
+my snood	d	m	8
+my snugg	g	m	8
+my sugar	r	m	8
+my sweet	t	m	8
+my tyber	r	m	8
+poochies	s	p	8
+puppieee	e	p	8
+puppycat	t	p	8
+puppydog	g	p	8
+SCHMEEGS	S	S	8
+schmoogs	s	s	8
+SCUBBIES	S	S	8
+sexy boy	y	s	8
+sexy man	n	s	8
+smiggies	s	s	8
+snoopiie	e	s	8
+sweetums	s	s	8
+the girl	l	t	8
+baaaabe	e	b	7
+batgirl	l	b	7
+big dog	g	b	7
+boo boo	o	b	7
+boobela	a	b	7
+bugaboo	o	b	7
+Buggies	s	B	7
+Bun bun	n	B	7
+buuuuub	b	b	7
+DA BABY	Y	D	7
+fiancee	e	f	7
+gem gem	m	g	7
+glugula	a	g	7
+goo goo	o	g	7
+googles	s	g	7
+gubbies	s	g	7
+gumdrop	p	g	7
+honeydo	o	h	7
+junebug	g	j	7
+kit kat	t	k	7
+lovebug	g	l	7
+mee maw	w	m	7
+mee mee	e	m	7
+mew mew	w	m	7
+miss pj	j	m	7
+moo moo	o	m	7
+mr hugs	s	m	7
+my babe	e	m	7
+my baby	y	m	7
+my bear	r	m	7
+my beeb	b	m	7
+my best	t	m	7
+my blub	b	m	7
+my boob	b	m	7
+my boyb	b	m	7
+my cake	e	m	7
+my cute	e	m	7
+my girl	l	m	7
+my guba	a	m	7
+my huny	y	m	7
+my lady	y	m	7
+my love	e	m	7
+my mimi	i	m	7
+my moon	n	m	7
+my mume	e	m	7
+my nood	d	m	7
+my pear	r	m	7
+my pugg	g	m	7
+my pupp	p	m	7
+my wife	e	m	7
+peaches	s	p	7
+pee paw	w	p	7
+pet pig	g	p	7
+pigalig	g	p	7
+pooches	s	p	7
+poochie	e	p	7
+schloop	p	s	7
+schmigs	s	s	7
+schmoob	b	s	7
+schmoom	m	s	7
+schmoop	p	s	7
+schmubs	s	s	7
+scoopie	e	s	7
+smchigs	s	s	7
+smeegie	e	s	7
+snoodle	e	s	7
+squeeks	s	s	7
+squiggs	s	s	7
+sweetle	e	s	7
+blobby	y	b	6
+bloppy	y	b	6
+bluppy	y	b	6
+boobie	e	b	6
+booboo	o	b	6
+Boppie	e	B	6
+Boybbb	b	B	6
+bubble	e	b	6
+buggie	e	b	6
+buggle	e	b	6
+bumble	e	b	6
+burbie	e	b	6
+derpie	e	d	6
+doggie	e	d	6
+dongle	e	d	6
+donkey	y	d	6
+doodie	e	d	6
+doodle	e	d	6
+duncan	n	d	6
+fluffs	s	f	6
+goobie	e	g	6
+gooble	e	g	6
+gooboo	o	g	6
+googoo	o	g	6
+goomie	e	g	6
+gubble	e	g	6
+gummie	e	g	6
+huggie	e	h	6
+huhnie	e	h	6
+hunnie	e	h	6
+Kermie	e	K	6
+mee ma	a	m	6
+mee ma	a	m	6
+meemee	e	m	6
+meemoo	o	m	6
+MOMMIE	E	M	6
+monkey	y	m	6
+MOOMIE	E	M	6
+moomoo	o	m	6
+mr.poo	o	m	6
+muffin	n	m	6
+muggle	e	m	6
+mummzy	y	m	6
+my bab	b	m	6
+my beb	b	m	6
+my bib	b	m	6
+my boy	y	m	6
+my bub	b	m	6
+my cat	t	m	6
+my cow	w	m	6
+my dog	g	m	6
+my doo	o	m	6
+my goo	o	m	6
+my kat	t	m	6
+my pet	t	m	6
+my pig	g	m	6
+my pup	p	m	6
+my tit	t	m	6
+noodle	e	n	6
+peachy	y	p	6
+peeniz	z	p	6
+pepper	r	p	6
+pickle	e	p	6
+piggie	e	p	6
+poo po	o	p	6
+pookie	e	p	6
+poopie	e	p	6
+puggle	e	p	6
+PUPPIE	E	P	6
+schmee	e	s	6
+scoobs	s	s	6
+scoops	s	s	6
+scrums	s	s	6
+SMOOGS	S	S	6
+snoobs	s	s	6
+snooks	s	s	6
+snoops	s	s	6
+squigs	s	s	6
+sweets	s	s	6
+tittie	e	t	6
+weenah	h	w	6
+wiggle	e	w	6
+angel	l	a	5
+apple	e	a	5
+babie	e	b	5
+bable	e	b	5
+blerb	b	b	5
+bobbs	s	b	5
+BOOBS	S	B	5
+booby	y	b	5
+booob	b	b	5
+boops	s	b	5
+boppy	y	b	5
+BOUYB	B	B	5
+boybs	s	b	5
+bubba	a	b	5
+bubby	y	b	5
+buggy	y	b	5
+bugsy	y	b	5
+burbs	s	b	5
+burby	y	b	5
+buttz	z	b	5
+cutes	s	c	5
+cutie	e	c	5
+daisy	y	d	5
+doggy	y	d	5
+favie	e	f	5
+globs	s	g	5
+gloob	b	g	5
+gooby	y	g	5
+googy	y	g	5
+grump	p	g	5
+gubba	a	g	5
+gubby	y	g	5
+guggs	s	g	5
+gumba	a	g	5
+gumby	y	g	5
+gummy	y	g	5
+guppa	a	g	5
+guppy	y	g	5
+hugga	a	h	5
+huggy	y	h	5
+huney	y	h	5
+hunny	y	h	5
+laffy	y	l	5
+lovie	e	l	5
+mamaa	a	m	5
+manny	y	m	5
+marmy	y	m	5
+mo mo	o	m	5
+moANA	A	m	5
+mocks	s	m	5
+momma	a	m	5
+mooms	s	m	5
+moomy	y	m	5
+mr pp	p	m	5
+MUGGA	A	M	5
+my qt	t	m	5
+peach	h	p	5
+piggg	g	p	5
+piggs	s	p	5
+PIGGY	Y	P	5
+pooks	s	p	5
+pooky	y	p	5
+poops	s	p	5
+poopy	y	p	5
+poopz	z	p	5
+poppy	y	p	5
+presh	h	p	5
+pubby	y	p	5
+puppy	y	p	5
+queen	n	q	5
+smoob	b	s	5
+smoog	g	s	5
+snoob	b	s	5
+snood	d	s	5
+snugg	g	s	5
+snugs	s	s	5
+sweet	t	s	5
+swets	s	s	5
+tiger	r	t	5
+Unnie	e	U	5
+wubba	a	w	5
+babe	e	b	4
+baby	y	b	4
+bear	r	b	4
+beeb	b	b	4
+berb	b	b	4
+blub	b	b	4
+boob	b	b	4
+boyb	b	b	4
+bubb	b	b	4
+bugs	s	b	4
+burb	b	b	4
+cute	e	c	4
+doob	b	d	4
+goob	b	g	4
+gugg	g	g	4
+gugs	s	g	4
+gumb	b	g	4
+hugg	g	h	4
+huny	y	h	4
+jess	s	j	4
+Mimi	i	M	4
+moom	m	m	4
+moon	n	m	4
+mume	e	m	4
+pear	r	p	4
+peps	s	p	4
+pugg	g	p	4
+pupp	p	p	4
+sexy	y	s	4
+unni	i	u	4
+wigs	s	w	4
+bab	b	b	3
+beb	b	b	3
+bib	b	b	3
+boy	y	b	3
+bub	b	b	3
+kat	t	k	3
+moo	o	m	3
+pig	g	p	3
+pup	p	p	3
+sbm	m	s	3
+qt	t	q	2
